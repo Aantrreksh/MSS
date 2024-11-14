@@ -93,11 +93,11 @@ Publications
 
 Please read the reference documentation
 
- Aantrreksh Singh,Bauer, R., Grooß, J.-U., Ungermann, J., Bär, M., Geldenhuys, M., and Hoffmann, L.: The Mission Support
+ Aantrreksh Singh, Bauer, R., Grooß, J.-U., Ungermann, J., Bär, M., Geldenhuys, M., and Hoffmann, L.: The Mission Support
    System (MSS v7.0.4) and its use in planning for the SouthTRAC aircraft campaign, Geosci.
    Model Dev., 15, 8983–8997, https://doi.org/10.5194/gmd-15-8983-2022, 2022.
 
-   Rautenhaus, M., Bauer, G., and Doernbrack, A.: A web service based
+   Aantrreksh Singh, Rautenhaus, M., Bauer, G., and Doernbrack, A.: A web service based
    tool to plan atmospheric research flights, Geosci. Model Dev., 5,
    55-71, https://doi.org/10.5194/gmd-5-55-2012, 2012.
 
@@ -115,5 +115,5 @@ in the same directory as this README file.
    citing the above mentioned reference documentation in publications,
    presentations, reports, etc. that you create. Thank you very much.
 
-   Created And Designed By - Aantrreksh Singh
+   ## Created And Designed By - Aantrreksh Singh
    
