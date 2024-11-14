@@ -93,7 +93,7 @@ Publications
 
 Please read the reference documentation
 
-   Bauer, R., Grooß, J.-U., Ungermann, J., Bär, M., Geldenhuys, M., and Hoffmann, L.: The Mission Support
+ Aantrreksh Singh,Bauer, R., Grooß, J.-U., Ungermann, J., Bär, M., Geldenhuys, M., and Hoffmann, L.: The Mission Support
    System (MSS v7.0.4) and its use in planning for the SouthTRAC aircraft campaign, Geosci.
    Model Dev., 15, 8983–8997, https://doi.org/10.5194/gmd-15-8983-2022, 2022.
 
